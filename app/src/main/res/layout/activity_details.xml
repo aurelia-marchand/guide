@@ -68,7 +68,7 @@
                 android:id="@+id/buttonUrl"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
+                android:layout_marginTop="11dp"
                 android:background="@drawable/details_bouton_site"
                 android:textColor="@color/colorWhite"
                 tools:text="htpp://www.mcdo.com" />
